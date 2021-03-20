@@ -1,2 +1,2 @@
-# pololife
-Welkom bij PoloLife
+# PoloLife
+Welkom bij PoloLife, Your Digital Car Community
